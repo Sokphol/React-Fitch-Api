@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+
+article{
+    
+ 
+    background-color: rgba(120, 181, 184, 0.527);
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main{
+   padding: 1rem;
+   display: block;
+    background-color: rgba(123, 241, 241, 0.226);
+    margin: 0 auto;
+   width: 50%;
+   align-items: center;
+}
+
+button{
+    padding: 1rem 0.5rem;
+    border-radius: 0.3rem;
+    border: none;
+    color: white;
+    background-color: rgba(240, 119, 119, 0.788);
+}
+
+
+h2{
+    color: whitesmoke;
+}
